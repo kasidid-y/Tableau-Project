@@ -2,7 +2,7 @@
 
 making a dashboard and storyboard with Tableau Desktop using the Import Value of Thai Medium and Small Enterprises for the Year 2024 (January - August) data provided by Open Government Data of Thailand
 
-![boardgame1](/assets/boardgame1.jpg)
+![Dashboard](/asset/Dashboard.png)
 
 **The Dashboard** 
 
@@ -20,7 +20,7 @@ Dashboard providing an interactive and detailed view of :
 
 [Link to the dashboard](https://public.tableau.com/app/profile/kasidid.yookong/viz/DashboardImportvalue/sheet9?publish=yes)
 
-![boardgame1](/assets/boardgame1.jpg)
+![Storyboard](/asset/Storyboard.png)
 
 **The Storyboard**
 
